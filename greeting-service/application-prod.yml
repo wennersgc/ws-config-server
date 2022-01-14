@@ -7,5 +7,5 @@ management:
       exposure:
         exclude: '*'
 greeting-service:
-  greeting: "Cia Mundo"
+  greeting: "Atualizando configurações sem interromper o serviço"
   default-value: "Word"
