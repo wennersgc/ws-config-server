@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: "Atualizando sem para o serviço"
+  greeting: "Atualizando sem parar o serviço"
   default-value: "Word"
