@@ -5,7 +5,8 @@ management:
   endpoints:
     web:
       exposure:
-        exclude: '*'
+        include:
+        - '*'
 greeting-service:
   greeting: "Hello"
   default-value: "Word"
